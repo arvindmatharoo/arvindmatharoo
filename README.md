@@ -4,7 +4,7 @@
 🌱 I’m currently learning : Deep Learning 
 📫 How to reach me: [LinkedIn] https://www.linkedin.com/in/arvindmatharoo/ , [Twitter] https://x.com/arvindmatharoo
 ## 🚀 Languages and Tools :
-C , C++ 
-Python 
-HTML/CSS
+- C , C++ 
+- Python 
+- HTML/CSS
 
