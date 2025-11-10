@@ -7,4 +7,7 @@
 - C , C++ 
 - Python 
 - HTML/CSS
+- Machine Learning
+- Deep Learning
+- Data Analysis
 
