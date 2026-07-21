@@ -96,8 +96,8 @@ ML pipeline estimating player market value from performance data, served via Fas
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arvindmatharoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvindmatharoo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=arvindmatharoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arvindmatharoo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=arvindmatharoo&theme=tokyonight&hide_border=true" />
